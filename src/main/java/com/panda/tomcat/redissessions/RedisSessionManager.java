@@ -69,7 +69,7 @@ public class RedisSessionManager extends ManagerBase implements Lifecycle {
 
 	protected static String name = "RedisSessionManager";
 
-	protected String serializationStrategyClass = "com.orangefunction.tomcat.redissessions.JavaSerializer";
+	protected String serializationStrategyClass = "com.panda.tomcat.redissessions.JavaSerializer";
 
 	protected EnumSet<SessionPersistPolicy> sessionPersistPoliciesSet = EnumSet.of(SessionPersistPolicy.DEFAULT);
 
