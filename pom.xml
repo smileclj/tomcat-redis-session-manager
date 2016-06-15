@@ -3,9 +3,9 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.panda</groupId>
 	<artifactId>tomcat-redis-session-manager</artifactId>
-	<version>0.0.1</version>
+	<version>1.0</version>
 	<packaging>jar</packaging>
-	<name>tomcat-redis-session-managerx</name>
+	<name>tomcat-redis-session-manager</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
